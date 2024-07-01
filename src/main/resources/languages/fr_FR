@@ -18,7 +18,7 @@ msgPlayerNotRegister: "Vous n'êtes pas encore inscrit, veuillez utiliser §6/re
 noLoginPlayerSendMessage: "Vous n'êtes§c pas connecté§f, des actions peuvent être restreintes, utilisez /login <mot de pass> pour vous connecter"
 noLoginPlayerSendTitle: "Bienvenue, utilisez §fblbi§bLogin"
 noLoginPlayerSendSubTitle: "Veuillez utiliser §6/login <mot de pass>§f pour vous connecter au jeu"
-noLoginPlayerSendActionBar: "Vous n'êtes actuellement§c pas connecté§f, les opérations peuvent être restreintes, utilisez /login <mot de pass> pour vous connecter"
+noLoginPlayerSendActionBar: "Vous n'êtes§c pas connecté§f, des actions peuvent être restreintes, utilisez /login <mot de pass> pour vous connecter"
 
 # Veuillez vous assurer que la fonction est activée dans config.yml pour modifier le contenu suivant
 successLoginSendTitle: "§aConnexion réussie"
