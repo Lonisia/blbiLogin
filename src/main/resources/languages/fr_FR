@@ -1,0 +1,25 @@
+Language: "Français (fr_FR)"
+
+loadedLanguage: "Fichier de langue chargé : %s"
+
+logEnable: "Le système BlbiLogin a été activé."
+logPlayerJoin: "Détection du joueur %player% rejoignant le serveur, les mouvements du joueur ont été bloqués."
+logNoLoginTryMove: "Le joueur non connecté %player% a essayé de bouger, il a été renvoyé en arrière."
+
+msgLoginSuccess: "Connexion réussie, bon retour %player%."
+msgRegisterSuccess: "Inscription réussie, bienvenue %player%."
+msgAlreadyRegistered: "Vous êtes déjà inscrit."
+msgNoPermission: "§fVous §cn'avez pas la permission §fd'utiliser cette commande."
+msgReloaded: "§fLe fichier de configuration et le fichier de langue ont été rechargés§a."
+msgLoginPasswordWrong: "Le §cmot de pass saisi est incorrect§f, veuillez réessayer."
+msgPlayerNotRegister: "Vous n'êtes pas encore inscrit, veuillez utiliser §6/register <mot de pass> §fpour vous inscrire."
+
+# Veuillez vous assurer que la fonction est activée dans config.yml pour modifier le contenu suivant
+noLoginPlayerSendMessage: "Vous n'êtes§c pas connecté§f, des actions peuvent être restreintes, utilisez /login <mot de pass> pour vous connecter"
+noLoginPlayerSendTitle: "Bienvenue, utilisez §fblbi§bLogin"
+noLoginPlayerSendSubTitle: "Veuillez utiliser §6/login <mot de pass>§f pour vous connecter au jeu"
+noLoginPlayerSendActionBar: "Vous n'êtes actuellement§c pas connecté§f, les opérations peuvent être restreintes, utilisez /login <mot de pass> pour vous connecter"
+
+# Veuillez vous assurer que la fonction est activée dans config.yml pour modifier le contenu suivant
+successLoginSendTitle: "§aConnexion réussie"
+successLoginSendSubTitle: "Bon retour : §a%player%"
